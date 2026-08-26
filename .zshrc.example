@@ -1,0 +1,2 @@
+# BigLinux remains the foundation; Big Zsh adds a small optional layer.
+source "/caminho/para/big-zsh/big-zsh.zsh"
